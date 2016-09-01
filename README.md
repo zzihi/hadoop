@@ -15,11 +15,11 @@ Hadoop Lecture
 
 - MapReduce Application 다운로드
 
-> http://github.com/longnym/lecture/raw/master/build/hadoop_ex01/hadoop_ex01.jar
+> http://github.com/longnym/lecture/raw/master/build/hadoop_ex01.jar
 
-> http://github.com/longnym/lecture/raw/master/build/hadoop_ex02/hadoop_ex02.jar
+> http://github.com/longnym/lecture/raw/master/build/hadoop_ex02.jar
 
-> http://github.com/longnym/lecture/raw/master/build/hadoop_ex03/hadoop_ex03.jar
+> http://github.com/longnym/lecture/raw/master/build/hadoop_ex03.jar
 
 <br>
 
