@@ -90,7 +90,7 @@ Hadoop Lecture
 
 - PIG Table 생성 (Accidents)
 
->A = LOAD '/input/acc/Accidents0514.csv' USING PigStorage(',') AS (
+>A = LOAD '/input/acc/Accidents_2005_2015.csv' USING PigStorage(',') AS (
 <br>Accident_Index:chararray, Location_Easting_OSGR:chararray, Location_Northing_OSGR:chararray, 
 <br>Longitude:chararray, 
 <br>Latitude:chararray, 
