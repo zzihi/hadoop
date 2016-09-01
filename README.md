@@ -1,27 +1,15 @@
 Hadoop Lecture
 ==================
 
-- 실습 데이터 (영국 교통 사고 이력)
+- 실습 데이터 (영국 교통사고 데이터)
 
-> https://github.com/longnym/lecture/raw/master/sample_data/DfTRoadSafety_Accidents.zip
+> 영국 교통 사고 이력 : https://github.com/longnym/lecture/raw/master/sample_data/DfTRoadSafety_Accidents.zip
 
-<br>
+> 영국 교통 사고 사상자 정보 : https://github.com/longnym/lecture/raw/master/sample_data/DfTRoadSafety_Casualties.zip
 
-- 실습 데이터 (영국 교통 사고 사상자 정보)
+> 지역 코드 : https://github.com/longnym/lecture/raw/master/sample_data/DfTRoadSafety_District.zip
 
-> https://github.com/longnym/lecture/raw/master/sample_data/DfTRoadSafety_Casualties.zip
-
-<br>
-
-- 실습 데이터 (지역 코드)
-
-> https://github.com/longnym/lecture/raw/master/sample_data/DfTRoadSafety_District.zip
-
-<br>
-
-- 실습 데이터 활용 가이드
-
-> http://github.com/longnym/lecture/raw/master/sample_data/Road-Accident-Safety-Data-Guide.xls
+> 데이터 활용 가이드 : http://github.com/longnym/lecture/raw/master/sample_data/Road-Accident-Safety-Data-Guide.xls
 
 <br>
 
