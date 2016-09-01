@@ -124,6 +124,12 @@ Hadoop Lecture
 
 <br>
 
+- MySQL 샘플 데이터
+
+> https://github.com/datacharmer/test_db
+
+<br>
+
 - Sqoop Import
 
 > sqoop import --driver com.mysql.jdbc.Driver --connect jdbc:mysql://localhost/employees --username root --table employees --target-dir /test/employees
