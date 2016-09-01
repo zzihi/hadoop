@@ -19,19 +19,19 @@ Hadoop Lecture
 
 <br>
 
-- 실습 데이터 정의서
+- 실습 데이터 활용 가이드
 
-> http://data.dft.gov.uk/road-accidents-safety-data/Road-Accident-Safety-Data-Guide.xls
+> http://github.com/longnym/lecture/raw/master/sample_data/Road-Accident-Safety-Data-Guide.xls
 
 <br>
 
 - MapReduce Application 다운로드
 
-> https://github.com/longnym/mapreduce/raw/master/hadoop_ex01/hadoop_ex01.jar
+> http://github.com/longnym/lecture/raw/master/build/hadoop_ex01/hadoop_ex01.jar
 
-> https://github.com/longnym/mapreduce/raw/master/hadoop_ex02/hadoop_ex02.jar
+> http://github.com/longnym/lecture/raw/master/build/hadoop_ex02/hadoop_ex02.jar
 
-> https://github.com/longnym/mapreduce/raw/master/hadoop_ex03/hadoop_ex03.jar
+> http://github.com/longnym/lecture/raw/master/build/hadoop_ex03/hadoop_ex03.jar
 
 <br>
 
