@@ -3,59 +3,19 @@ Hadoop Lecture
 
 - 실습 데이터 (영국 교통 사고 이력)
 
-> http://data.dft.gov.uk/road-accidents-safety-data/DfTRoadSafety_Accidents_2005.zip
-
-> http://data.dft.gov.uk/road-accidents-safety-data/DfTRoadSafety_Accidents_2006.zip
-
-> http://data.dft.gov.uk/road-accidents-safety-data/DfTRoadSafety_Accidents_2007.zip
-
-> http://data.dft.gov.uk/road-accidents-safety-data/DfTRoadSafety_Accidents_2008.zip
-
-> http://data.dft.gov.uk/road-accidents-safety-data/DfTRoadSafety_Accidents_2009.zip
-
-> http://data.dft.gov.uk/road-accidents-safety-data/DfTRoadSafety_Accidents_2010.zip
-
-> http://data.dft.gov.uk/road-accidents-safety-data/DfTRoadSafety_Accidents_2011.zip
-
-> http://data.dft.gov.uk/road-accidents-safety-data/DfTRoadSafety_Accidents_2012.zip
-
-> http://data.dft.gov.uk/road-accidents-safety-data/DfTRoadSafety_Accidents_2013.zip
-
-> http://data.dft.gov.uk/road-accidents-safety-data/DfTRoadSafety_Accidents_2014.zip
-
-> http://data.dft.gov.uk/road-accidents-safety-data/DfTRoadSafety_Accidents_2015.zip
+> https://github.com/longnym/lecture/raw/master/sample_data/DfTRoadSafety_Accidents.zip
 
 <br>
 
 - 실습 데이터 (영국 교통 사고 사상자 정보)
 
-> http://data.dft.gov.uk/road-accidents-safety-data/DfTRoadSafety_Casualties_2005.zip
-
-> http://data.dft.gov.uk/road-accidents-safety-data/DfTRoadSafety_Casualties_2006.zip
-
-> http://data.dft.gov.uk/road-accidents-safety-data/DfTRoadSafety_Casualties_2007.zip
-
-> http://data.dft.gov.uk/road-accidents-safety-data/DfTRoadSafety_Casualties_2008.zip
-
-> http://data.dft.gov.uk/road-accidents-safety-data/DfTRoadSafety_Casualties_2009.zip
-
-> http://data.dft.gov.uk/road-accidents-safety-data/DfTRoadSafety_Casualties_2010.zip
-
-> http://data.dft.gov.uk/road-accidents-safety-data/DfTRoadSafety_Casualties_2011.zip
-
-> http://data.dft.gov.uk/road-accidents-safety-data/DfTRoadSafety_Casualties_2012.zip
-
-> http://data.dft.gov.uk/road-accidents-safety-data/DfTRoadSafety_Casualties_2013.zip
-
-> http://data.dft.gov.uk/road-accidents-safety-data/DfTRoadSafety_Casualties_2014.zip
-
-> http://data.dft.gov.uk/road-accidents-safety-data/DfTRoadSafety_Casualties_2015.zip
+> https://github.com/longnym/lecture/raw/master/sample_data/DfTRoadSafety_Casualties.zip
 
 <br>
 
 - 실습 데이터 (지역 코드)
 
-> https://github.com/longnym/mapreduce/raw/master/District.csv
+> https://github.com/longnym/lecture/raw/master/sample_data/DfTRoadSafety_District.zip
 
 <br>
 
