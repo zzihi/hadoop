@@ -64,14 +64,14 @@ Hadoop Lecture
 <br>Time                     STRING,
 <br>District                 STRING,
 <br>Highway                  STRING,
-<br>first_Road_Class           STRING,
-<br>first_Road_Number          STRING,
+<br>first_Road_Class         STRING,
+<br>first_Road_Number        STRING,
 <br>Road_Type                STRING,
 <br>Speed_limit              STRING,
 <br>Junction_Detail          STRING,
 <br>Junction_Control         STRING,
-<br>second_Road_Class           STRING,
-<br>second_Road_Number          STRING,
+<br>second_Road_Class        STRING,
+<br>second_Road_Number       STRING,
 <br>Pedestrian_Crossing_Human_Control            STRING,
 <br>Pedestrian_Crossing_Physical_Facilities      STRING,
 <br>Light_Conditions                             STRING,
@@ -121,3 +121,13 @@ Hadoop Lecture
 <br>Urban_or_Rural_Area:chararray, 
 <br>Did_Police_Officer_Attend_Scene_of_Accident:chararray, 
 <br>Lower_Super_Ouput_Area_of_Accident_Location:chararray);
+
+<br>
+
+- Sqoop Import
+sqoop import \
+  --driver com.mysql.jdbc.Driver \
+  --connect jdbc:mysql://localhost/employees \
+  --username root \
+  --table employees \
+  --target-dir /test/employees
