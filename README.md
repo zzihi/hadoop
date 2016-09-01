@@ -67,11 +67,11 @@ Hadoop Lecture
 
 - MapReduce Application 다운로드
 
-> wget https://github.com/longnym/mapreduce/raw/master/hadoop_ex01/hadoop_ex01.jar
+> https://github.com/longnym/mapreduce/raw/master/hadoop_ex01/hadoop_ex01.jar
 
-> wget https://github.com/longnym/mapreduce/raw/master/hadoop_ex02/hadoop_ex02.jar
+> https://github.com/longnym/mapreduce/raw/master/hadoop_ex02/hadoop_ex02.jar
 
-> wget https://github.com/longnym/mapreduce/raw/master/hadoop_ex03/hadoop_ex03.jar
+> https://github.com/longnym/mapreduce/raw/master/hadoop_ex03/hadoop_ex03.jar
 
 <br>
 
