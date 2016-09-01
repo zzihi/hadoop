@@ -121,3 +121,13 @@ Hadoop Lecture
 <br>Urban_or_Rural_Area:chararray, 
 <br>Did_Police_Officer_Attend_Scene_of_Accident:chararray, 
 <br>Lower_Super_Ouput_Area_of_Accident_Location:chararray);
+
+<br>
+
+- Sqoop Import
+sqoop import \
+  --driver com.mysql.jdbc.Driver \
+  --connect jdbc:mysql://localhost/employees \
+  --username root \
+  --table employees \
+  --target-dir /test/employees
