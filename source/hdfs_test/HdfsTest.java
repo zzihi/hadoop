@@ -12,8 +12,8 @@ public class HdfsTest {
                         Configuration conf = new Configuration();
                         FileSystem hdfs = FileSystem.get(conf);
 
-                        Path inputPath = new Path("/user/rts/lecture/acc/Accidents_2005_2015.csv");
-                        Path outputPath = new Path("/user/rts/lecture/acc/Accidents_2005_2015_sun.csv");
+                        Path inputPath = new Path("/input/acc/Accidents_2005_2015.csv");
+                        Path outputPath = new Path("/input/acc/Accidents_2005_2015_sun.csv");
 
                         FSDataOutputStream outStream = hdfs.create(outputPath);
 
@@ -22,7 +22,7 @@ public class HdfsTest {
                         while ((line = br.readLine()) != null) {
                                 String[] fields = line.split(",");
                                 if(fields[10].equals("1")) {
-                                        outStream.writeChars(line + "\n");
+                                        outStream.writeUTF(line + "\n");
                                 }
                         }
 
