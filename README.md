@@ -105,9 +105,9 @@ Hadoop Lecture
 <br>Pedestrian_Road_Maintenance_Worker INT,
 <br>Casualty_Type INT,
 <br>Casualty_Home_Area_Type INT
-)
-ROW FORMAT DELIMITED FIELDS TERMINATED BY "," 
-LOCATION '/input/cas';
+<br>)
+<br>ROW FORMAT DELIMITED FIELDS TERMINATED BY "," 
+<br>LOCATION '/input/cas';
 
 <br>
 
