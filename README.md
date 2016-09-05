@@ -88,7 +88,7 @@ Hadoop Lecture
 
 <br>
 
-- Hive Table 생성 (Accidents)
+- Hive Table 생성 (Casualties)
 
 >CREATE EXTERNAL TABLE IF NOT EXISTS CASUALTIES (
 <br>Acc_Index STRING,
