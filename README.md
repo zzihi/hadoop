@@ -88,6 +88,29 @@ Hadoop Lecture
 
 <br>
 
+- Hive Table 생성 (Accidents)
+
+>CREATE EXTERNAL TABLE IF NOT EXISTS CASUALTIES (
+<br>Acc_Index STRING,
+<br>Vehicle_Reference INT,
+<br>Casualty_Reference INT,
+<br>Casualty_Class INT,
+<br>Sex_of_Casualty INT,
+<br>Age_Band_of_Casualty INT,
+<br>Casualty_Severity INT,
+<br>Pedestrian_Location INT,
+<br>Pedestrian_Movement INT,
+<br>Car_Passenger INT,
+<br>Bus_or_Coach_Passenger INT,
+<br>Pedestrian_Road_Maintenance_Worker INT,
+<br>Casualty_Type INT,
+<br>Casualty_Home_Area_Type INT
+)
+ROW FORMAT DELIMITED FIELDS TERMINATED BY "," 
+LOCATION '/input/cas';
+
+<br>
+
 - PIG Table 생성 (Accidents)
 
 >A = LOAD '/input/acc/Accidents_2005_2015.csv' USING PigStorage(',') AS (
