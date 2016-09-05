@@ -147,6 +147,13 @@ Hadoop Lecture
 
 <br>
 
+- Hive QL
+
+>set hive.execution.engine=mr
+<br>select a.Day_of_Week,c.Sex_of_Casualty, count(1) from accidents a join casualties c on a.accident_index = c.acc_index group by Day_of_Week,Sex_of_Casualty;
+
+<br>
+
 - MySQL 샘플 데이터
 
 > https://github.com/datacharmer/test_db/archive/master.zip
