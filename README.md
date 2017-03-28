@@ -154,6 +154,12 @@ Hadoop Lecture
 
 <br>
 
+- Spark SQL
+
+> sql("select day_of_week, count(1) from hong.accidents group by day_of_week").show()
+
+<br>
+
 - MySQL 샘플 데이터
 
 > https://github.com/datacharmer/test_db/archive/master.zip
