@@ -36,7 +36,7 @@
 <br>)
 <br>PARTITIONED BY (Year_Acc STRING, Month_Acc STRING)
 <br>ROW FORMAT DELIMITED FIELDS TERMINATED BY ","
-<br>LOCATION '/input/acc';
+<br>LOCATION '/input/acc_p';
 
 <br>
 
