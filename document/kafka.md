@@ -18,3 +18,7 @@ Kafka
 
 - Consume Data
 > /usr/hdp/current/kafka-broker/bin/kafka-console-consumer.sh --topic bigdata --zookeeper localhost:2181
+
+<br>
+- Offset Check
+> /usr/hdp/current/kafka-broker/bin/kafka-consumer-offset-checker.sh --topic bigdata --group console-consumer-* --zookeeper localhost:2181
