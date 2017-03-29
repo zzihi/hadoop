@@ -226,7 +226,9 @@ Hadoop Lecture
 
 > sqoop export --driver com.mysql.jdbc.Driver --connect jdbc:mysql://localhost/employees --username root --password hadoop --table employees --export-dir /test/employees
 
-- Sqoop(MySQL -> HDFS -> HIVE)
+<br>
+
+- Sqoop Usage : MySQL -> HDFS -> HIVE
 
 >CREATE EXTERNAL TABLE IF NOT EXISTS EMPLOYEES ( 
 <br>emp_no INT,
