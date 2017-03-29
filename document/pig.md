@@ -1,4 +1,4 @@
-PIG
+Pig
 ==================
 
 - PIG Table 생성 (Accidents)
