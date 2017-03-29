@@ -21,5 +21,5 @@ Kafka
 
 <br>
 
-- Offset Check
+- Offset Checker
 > /usr/hdp/current/kafka-broker/bin/kafka-consumer-offset-checker.sh --topic bigdata --group console-consumer-* --zookeeper localhost:2181
