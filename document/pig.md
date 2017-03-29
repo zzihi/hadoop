@@ -1,3 +1,6 @@
+PIG
+==================
+
 - PIG Table 생성 (Accidents)
 
 >A = LOAD '/input/acc/Accidents_2005_2015.csv' USING PigStorage(',') AS (
