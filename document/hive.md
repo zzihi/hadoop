@@ -1,3 +1,6 @@
+Hive
+==================
+
 - Hive Table 생성 (Accidents)
 
 >CREATE EXTERNAL TABLE IF NOT EXISTS ACCIDENTS (
