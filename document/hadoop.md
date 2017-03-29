@@ -25,6 +25,8 @@ Hadoop
 
 - Build & Run HdfsTest.java
 
+> Source : https://raw.githubusercontent.com/longnym/lecture/master/source/hdfs_test/HdfsTest.java
+
 > javac -cp .:/usr/hdp/current/hadoop-client/hadoop-common.jar HdfsTest.java
 
 > jar cvf HdfsTest.jar HdfsTest.class
