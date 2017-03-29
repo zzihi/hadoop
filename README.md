@@ -1,2 +1,2 @@
-Hadoop Lecture
+Hadoop 이해와 활용
 ==================
