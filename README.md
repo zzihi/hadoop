@@ -218,10 +218,10 @@ Hadoop Lecture
 
 - Sqoop Import
 
-> sqoop import --driver com.mysql.jdbc.Driver --connect jdbc:mysql://localhost/employees --username root --table employees --target-dir /test/employees
+> sqoop import --driver com.mysql.jdbc.Driver --connect jdbc:mysql://localhost/employees --username root --password hadoop --table employees --target-dir /test/employees
 
 <br>
 
 - Sqoop Export
 
-> sqoop export --driver com.mysql.jdbc.Driver --connect jdbc:mysql://localhost/employees --username root --table employees --export-dir /test/employees
+> sqoop export --driver com.mysql.jdbc.Driver --connect jdbc:mysql://localhost/employees --username root --password hadoop --table employees --export-dir /test/employees
