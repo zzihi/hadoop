@@ -23,6 +23,16 @@ Hadoop
 
 <br>
 
+- build HdfsTest.java
+
+> javac -cp .:/usr/hdp/current/hadoop-client/hadoop-common.jar HdfsTest.java
+
+> jar cvf HdfsTest.jar HdfsTest.class
+
+> hadoop jar HdfsTest.jar HdfsTest
+
+<br>
+
 - Driver Class의 실행 (실습 1)
 
 >hadoop jar hadoop_ex01.jar -D inputPath=/input/acc/Accidents_2005_2015.csv -D outputPath=/output/result01 -D numReduceTasks=3 skill.coach.TestDriver
