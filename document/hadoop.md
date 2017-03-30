@@ -1,11 +1,10 @@
 Hadoop
 ==================
-
-https://github.com/wonk777/hadoop/raw/master/sample_data/DfTRoadSafety_Accidents.zip
+아래
+https://github.com/longnym/lecture -> https://github.com/wonk777/hadoop/
 
 
 - 실습 데이터 (영국 교통사고 데이터)
-
 > 사고 이력 : https://github.com/longnym/lecture/raw/master/sample_data/DfTRoadSafety_Accidents.zip
 
 > 사상자 정보 : https://github.com/longnym/lecture/raw/master/sample_data/DfTRoadSafety_Casualties.zip
