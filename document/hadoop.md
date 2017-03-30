@@ -1,6 +1,7 @@
 Hadoop
 ==================
-아래
+
+아래주소변경
 https://github.com/longnym/lecture -> https://github.com/wonk777/hadoop/
 
 
