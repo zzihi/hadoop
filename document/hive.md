@@ -67,8 +67,8 @@ Hive
 
 - Hive QL
 
->set hive.execution.engine=mr;
->set hive.auto.convert.join=false;
+<br>set hive.execution.engine=mr;
+<br>set hive.auto.convert.join=false;
 <br>select a.Day_of_Week,c.Sex_of_Casualty, count(1) from accidents a join casualties c on a.accident_index = c.acc_index group by Day_of_Week,Sex_of_Casualty;
 
 <br>
