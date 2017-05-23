@@ -1,7 +1,8 @@
-<br>http://excelsior-cjh.tistory.com/entry/%EC%95%84%ED%8C%8C%EC%B9%98-%EC%8A%A4%EC%BF%B1Apache-Sqoop
-<br>
-<br>Apache sqoop 1.44 를 통한 Hadoop/Hive data import
-<br>http://m.blog.daum.net/khere/13
-<br>
-<br>Apache Sqoop을 활용하여 RDBMS 데이터 수집
-<br>http://hochul.net/blog/datacollector_apache_sqoop_from_rdbms2/
+Apache sqoop import/export
+http://excelsior-cjh.tistory.com/entry/%EC%95%84%ED%8C%8C%EC%B9%98-%EC%8A%A4%EC%BF%B1Apache-Sqoop
+
+Apache sqoop 1.44 를 통한 Hadoop/Hive data import
+http://m.blog.daum.net/khere/13
+
+Apache Sqoop을 활용하여 RDBMS 데이터 수집
+http://hochul.net/blog/datacollector_apache_sqoop_from_rdbms2/
