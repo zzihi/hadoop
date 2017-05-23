@@ -6,6 +6,9 @@ Hadoop의 이해와 활용
 <br>VMware-player-12.5.4-5192485
 <br>HDP_2.5_vmware
 <br>
+<br>IBM BLUEMIX
+<br>https://www.ibm.com/cloud-computing/bluemix/ko
+<br>
 <br>jeehyunk8674@gmail.com / Juni3232!!
 <br>movios / movios20170517
 <br>putty : bi-hadoop-prod-4154.bi.services.us-south.bluemix.net
