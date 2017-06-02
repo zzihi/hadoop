@@ -12,6 +12,7 @@ Hadoop의 이해와 활용
 <br>
 <br>Ambari : movios2 / movios20170517
 <br>putty : bi-hadoop-prod-4130.bi.services.us-south.bluemix.net
+<br> ->위와 동일 계정
 <br>
 <br>Mysql GUI : https://code.google.com/archive/p/sqlyog/wikis/Downloads.wiki
 <br>
