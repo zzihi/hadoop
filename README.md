@@ -8,10 +8,11 @@ Hadoop의 이해와 활용
 <br>
 <br>IBM BLUEMIX
 <br>https://www.ibm.com/cloud-computing/bluemix/ko
-<br>jeehyunk8674@gmail.com / Juni3232!!
+<br>yo_mind@hanmail.net / Juni3232!
 <br>
-<br>Ambari : movios2 / movios20170517
-<br>putty : bi-hadoop-prod-4130.bi.services.us-south.bluemix.net
+<br>Ambari : https://bi-hadoop-prod-4222.bi.services.us-south.bluemix.net:9443
+<br>         movios / movios20170517
+<br>putty : bi-hadoop-prod-4222.bi.services.us-south.bluemix.net
 <br> ->위와 동일 계정
 <br>
 <br>Mysql GUI : https://code.google.com/archive/p/sqlyog/wikis/Downloads.wiki
