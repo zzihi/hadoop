@@ -17,6 +17,7 @@
 
 
 
+
 <import - DB의 데이터를 HDFS로 이동 시킴>
 
 [query 옵션을 이용하는 경우]
@@ -36,6 +37,7 @@ sqoop import \
   --split-by column3 \
 
   --target-dir hdfs://localhost/user/hadoop/
+
 
 
 
@@ -63,6 +65,7 @@ sqoop import \
 
 
 
+
 <export - HDFS의 데이터를 DB로 이동 시킴>
 
 [insert 하기]
@@ -82,6 +85,7 @@ sqoop export
   --export-dir hdfs://localhost/user/hadoop/ \
 
 
+
 [insert 하기 - 칼럼의 이름을 지정하여 입력]
 sqoop export 
   --connect jdbc:mysql://loclhost:7777/db?zeroDateTimeBehavior=convertToNull \
@@ -90,6 +94,7 @@ sqoop export
   --table sample_table \
   --export-dir hdfs://localhost/user/hadoop/ \
   --columns column1,column2,column3
+
 
 [update 하기]
 - update 는 upudate-key 를 지정하여 처리할 수 있다. 
@@ -105,6 +110,7 @@ sqoop export
   --columns column1,column2,column3 \
   --update-key column3 \
   --num-mappers 1
+
 
 [프로시저 call 하기]
 sqoop export 
