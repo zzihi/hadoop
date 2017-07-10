@@ -19,3 +19,8 @@ Hadoop의 이해와 활용
 <br>Mysql GUI : https://code.google.com/archive/p/sqlyog/wikis/Downloads.wiki
 <br>
 <br>sqoop import --driver com.mysql.jdbc.Driver --connect jdbc:mysql://sl-us-south-1-portal.0.dblayer.com:15823/compose --username admin --password BKAHMJQHQQLPHCYV --table employees --target-dir /user/movios/test/employees
+<br>MySQL(AWS) : 
+<br>db url: mobig.ch71hvh7pyfc.ap-northeast-2.rds.amazone.com
+<br>db port: 3306
+<br>db name: mobig
+<br>id/pw: admin/sktngm12!
